@@ -1,0 +1,3 @@
+Open the task1.ps1 PS file from this folder.
+
+We would like sort this array by size.
