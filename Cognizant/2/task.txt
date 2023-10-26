@@ -1,6 +1,0 @@
-Open the task1.ps1 PS file from this folder.
-
-- Sort the array by size of the elements from the minimum to the maximum.
-Do not use internal method(s). 
-
-- Commit the change
